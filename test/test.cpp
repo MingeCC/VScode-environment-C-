@@ -11,6 +11,7 @@ int main(){
 
     cout<<"Max of "<<c<<" and "<<d<<" is "<<max(c,d)<<endl;
     cout<<"test git update!"<<endl;
+    //远程同步测试
     return 0;
 
 } 
