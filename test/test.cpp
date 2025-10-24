@@ -10,7 +10,7 @@ int main(){
     ap_int<8> d = 20;
 
     cout<<"Max of "<<c<<" and "<<d<<" is "<<max(c,d)<<endl;
-    cout<<"Hello, World!"<<endl;
+    cout<<"test git update!"<<endl;
     return 0;
 
 } 
